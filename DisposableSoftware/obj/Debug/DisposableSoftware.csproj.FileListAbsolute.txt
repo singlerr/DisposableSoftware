@@ -1,0 +1,16 @@
+C:\Users\na\source\repos\DisposableSoftware\DisposableSoftware\obj\Debug\DisposableSoftware.csprojAssemblyReference.cache
+C:\Users\na\source\repos\DisposableSoftware\DisposableSoftware\obj\Debug\DisposableSoftware.Form1.resources
+C:\Users\na\source\repos\DisposableSoftware\DisposableSoftware\obj\Debug\DisposableSoftware.Properties.Resources.resources
+C:\Users\na\source\repos\DisposableSoftware\DisposableSoftware\obj\Debug\DisposableSoftware.csproj.GenerateResource.cache
+C:\Users\na\source\repos\DisposableSoftware\DisposableSoftware\obj\Debug\DisposableSoftware.csproj.CoreCompileInputs.cache
+C:\Users\na\source\repos\DisposableSoftware\DisposableSoftware\bin\Debug\DisposableSoftware.exe.config
+C:\Users\na\source\repos\DisposableSoftware\DisposableSoftware\bin\Debug\DisposableSoftware.exe
+C:\Users\na\source\repos\DisposableSoftware\DisposableSoftware\bin\Debug\DisposableSoftware.pdb
+C:\Users\na\source\repos\DisposableSoftware\DisposableSoftware\obj\Debug\DisposableSoftware.exe
+C:\Users\na\source\repos\DisposableSoftware\DisposableSoftware\obj\Debug\DisposableSoftware.pdb
+C:\Users\na\source\repos\DisposableSoftware\DisposableSoftware\obj\Debug\DisposableSoftware.Form2.resources
+C:\Users\na\source\repos\DisposableSoftware\DisposableSoftware\bin\Debug\DisposableSoftware.exe.manifest
+C:\Users\na\source\repos\DisposableSoftware\DisposableSoftware\bin\Debug\DisposableSoftware.application
+C:\Users\na\source\repos\DisposableSoftware\DisposableSoftware\obj\Debug\DisposableSoftware.TrustInfo.xml
+C:\Users\na\source\repos\DisposableSoftware\DisposableSoftware\obj\Debug\DisposableSoftware.exe.manifest
+C:\Users\na\source\repos\DisposableSoftware\DisposableSoftware\obj\Debug\DisposableSoftware.application

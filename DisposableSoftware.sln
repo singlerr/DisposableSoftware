@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29306.81
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DisposableSoftware", "DisposableSoftware\DisposableSoftware.csproj", "{75EE5DB9-7722-4A8B-8708-0BE38A93BD3B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{75EE5DB9-7722-4A8B-8708-0BE38A93BD3B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{75EE5DB9-7722-4A8B-8708-0BE38A93BD3B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{75EE5DB9-7722-4A8B-8708-0BE38A93BD3B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{75EE5DB9-7722-4A8B-8708-0BE38A93BD3B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {7B96B919-024D-4363-B3FA-D74582FBE584}
+	EndGlobalSection
+EndGlobal
