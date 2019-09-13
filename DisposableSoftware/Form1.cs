@@ -66,11 +66,7 @@ namespace DisposableSoftware
             startInfo.Arguments = "-jar " + AppDomain.CurrentDomain.BaseDirectory + @"\Exec.jar";
             process.StartInfo = startInfo;
             process.Start();
-            if(MessageBox.Show("시작 프로그램으로 등록하시겠습니까?", "확인", MessageBoxButtons.YesNo, MessageBoxIcon.Information) == DialogResult.Yes)
-            {
-                RegistryKey rkey = Registry.CurrentUser.OpenSubKey("SOFTWARE\\Microsoft\\Windows\\CurrentVersion\\Run", true);
-                rkey.SetValue("ProgramName", Application.ExecutablePath.ToString());
-            }
+         
         }
         public void StartWatcher()
         {
